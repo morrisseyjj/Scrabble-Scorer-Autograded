@@ -87,7 +87,7 @@ const scoringAlgorithms = [
     {
       name: "Scrabble",
       description: "The traditional scoring algorithm.",
-      scorerFunction: oldScrabbleScorer // PART 3 change to scrabbleScorer  
+      scorerFunction: scrabbleScorer // PART 3 change to scrabbleScorer  
     }
 ];
 // PART 2. will Ask the user what Score function to use (scoring algorithm)
